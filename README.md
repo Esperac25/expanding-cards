@@ -5,3 +5,5 @@ A super simple application where users can click on a card and it will expand to
 -Made to practice JavaScript and inline styling.
 
 -Stack: JavaScript, HTML, CSS
+
+-Demo: https://esperac25.github.io/expanding-cards/
